@@ -9,7 +9,7 @@ public class Main {
         employees.add(new Employee("Amy", 25, 60000, "Finance"));
         employees.add(new Employee("David", 35, 45000, "HR"));
         employees.add(new Employee("Emily", 28, 55000, "IT"));
-        // Add more employees...
+        
 
         System.out.println("Before sorting:");
         for (Employee employee : employees) {
